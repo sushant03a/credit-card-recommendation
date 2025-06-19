@@ -42,7 +42,7 @@ credit-card-assistant/
 
 ## Demo
 
-A demo video or GIF showcasing the application's functionality will be added here.
+https://www.loom.com/share/b510c37ceb784bdaafdd211fbc936bde?sid=84329b33-d696-4fb3-9d55-bc18018097d5
 
 ## Agent Flow and Prompt Design
 
