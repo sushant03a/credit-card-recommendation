@@ -10,18 +10,18 @@
     "card_type": "lifestyle",
     "reward_categories": {
       "fuel": 3,
-      "travel": 0,
+      "travel": 5,
       "groceries": 0,
       "dining": 0,
       "shopping": 0,
       "entertainment": 0
     },
     "benefits": [
-      "dining discounts"
+      "airport lounge access"
     ],
     "highlight": "Get up to ₹6,944/year cashback",
     "apply_link": "https://www.example.com/apply/sbi-platinum-rewards-card",
-    "image_url": "https://dummyimages.com/sbi_platinum_rewards_card.png"
+    "image_url":"https://www.sbicard.com/sbi-card-en/assets/media/images/personal/credit-cards/value-savings/card-faces/simplysave-card-face.png"
   },
   {
     "name": "ICICI Fuel Buddy Card",
@@ -45,7 +45,7 @@
     ],
     "highlight": "Get up to ₹7,127/year cashback",
     "apply_link": "https://www.example.com/apply/icici-fuel-buddy-card",
-    "image_url": "https://dummyimages.com/icici_fuel_buddy_card.png"
+    "image_url": "https://www.icicibank.com/content/dam/icicibank/india/managed-assets/credit-card/mmt-signature-credit-card.png"
   },
   {
     "name": "ICICI Apna Card",
@@ -69,7 +69,7 @@
     ],
     "highlight": "Get up to ₹3,408/year cashback",
     "apply_link": "https://www.example.com/apply/icici-apna-card-card",
-    "image_url": "https://dummyimages.com/icici_apna_card_card.png"
+    "image_url": "https://www.icicibank.com/content/dam/icicibank/india/managed-assets/credit-card/mmt-signature-credit-card.png"
   },
   {
     "name": "Axis Apna Card",
@@ -93,7 +93,7 @@
     ],
     "highlight": "Get up to ₹3,141/year cashback",
     "apply_link": "https://www.example.com/apply/axis-apna-card-card",
-    "image_url": "https://dummyimages.com/axis_apna_card_card.png"
+    "image_url": "https://www.axisbank.com/images/default-source/revamp_new/cards/cc-new/card2.png"
   },
   {
     "name": "HDFC Smart EMI Card",
@@ -117,7 +117,7 @@
     ],
     "highlight": "Get up to ₹6,245/year cashback",
     "apply_link": "https://www.example.com/apply/hdfc-smart-emi-card",
-    "image_url": "https://dummyimages.com/hdfc_smart_emi_card.png"
+    "image_url": "https://www.hdfcbank.com/content/api/contentstream-id/723fb80a-2dde-42a3-9793-7ae1be57c87f/7fcbdd38-2aea-46b9-a06b-2eb8bfcd3863/Personal/Pay/Cards/Credit%20Card/Credit%20Card%20Landing%20Page/Credit%20Cards/Commercial/Distributor%20Card/distributor_card_banner1.png"
   },
   {
     "name": "YES Titanium Edge Card",
@@ -141,7 +141,7 @@
     ],
     "highlight": "Get up to ₹5,460/year cashback",
     "apply_link": "https://www.example.com/apply/yes-titanium-edge-card",
-    "image_url": "https://dummyimages.com/yes_titanium_edge_card.png"
+    "image_url": "https://www.cardexpert.in/wp-content/uploads/2017/11/Yes-Private-Card.png"
   },
   {
     "name": "Kotak Amazon Pay Card",
@@ -165,7 +165,7 @@
     ],
     "highlight": "Get up to ₹5,119/year cashback",
     "apply_link": "https://www.example.com/apply/kotak-amazon-pay-card",
-    "image_url": "https://dummyimages.com/kotak_amazon_pay_card.png"
+    "image_url": "https://www.paisabazaar.com/wp-content/uploads/2017/10/Screenshot-2024-09-03-152835.png"
   },
   {
     "name": "IndusInd Super Shopper Card",
@@ -189,7 +189,7 @@
     ],
     "highlight": "Get up to ₹3,028/year cashback",
     "apply_link": "https://www.example.com/apply/indusind-super-shopper-card",
-    "image_url": "https://dummyimages.com/indusind_super_shopper_card.png"
+    "image_url": "https://media.banksathi.com/products/logo/gEwpOcXEdybtsp4DjgzEaUXIBhE4KmLooD3mthIT.png"
   },
   {
     "name": "Kotak Platinum Rewards Card",
@@ -213,7 +213,7 @@
     ],
     "highlight": "Get up to ₹6,556/year cashback",
     "apply_link": "https://www.example.com/apply/kotak-platinum-rewards-card",
-    "image_url": "https://dummyimages.com/kotak_platinum_rewards_card.png"
+    "image_url": "https://www.paisabazaar.com/wp-content/uploads/2017/10/Screenshot-2024-09-03-152835.png"
   },
   {
     "name": "Axis MoneyBack+ Card",
@@ -237,7 +237,7 @@
     ],
     "highlight": "Get up to ₹6,948/year cashback",
     "apply_link": "https://www.example.com/apply/axis-moneyback+-card",
-    "image_url": "https://dummyimages.com/axis_moneyback+_card.png"
+    "image_url": "https://www.axisbank.com/images/default-source/revamp_new/cards/cc-new/card2.png"
   },
   {
     "name": "Kotak MoneyBack+ Card",
@@ -261,7 +261,7 @@
     ],
     "highlight": "Get up to ₹4,500/year cashback",
     "apply_link": "https://www.example.com/apply/kotak-moneyback+-card",
-    "image_url": "https://dummyimages.com/kotak_moneyback+_card.png"
+    "image_url": "https://www.paisabazaar.com/wp-content/uploads/2017/10/Screenshot-2024-09-03-152835.png"
   },
   {
     "name": "HDFC MoneyBack+ Card",
@@ -285,7 +285,7 @@
     ],
     "highlight": "Get up to ₹4,200/year cashback",
     "apply_link": "https://www.example.com/apply/hdfc-moneyback+-card",
-    "image_url": "https://dummyimages.com/hdfc_moneyback+_card.png"
+    "image_url": "https://www.hdfcbank.com/content/api/contentstream-id/723fb80a-2dde-42a3-9793-7ae1be57c87f/01f727fb-30ab-4801-8e4c-94b68586eedb/Personal/Pay/Cards/Credit%20Card/Credit%20Card%20Landing%20Page/Credit%20Cards/Super%20Premium/Regalia%20First/regalia_first_banner1_old.png"
   },
   {
     "name": "SBI IRCTC RuPay Card",
@@ -309,7 +309,7 @@
     ],
     "highlight": "Get up to ₹5,000/year cashback",
     "apply_link": "https://www.example.com/apply/sbi-irctc-rupay-card",
-    "image_url": "https://dummyimages.com/sbi_irctc_rupay_card.png"
+    "image_url": "https://www.sbicard.com/sbi-card-en/assets/media/images/personal/credit-cards/value-savings/card-faces/simplysave-card-face.png"
   },
   {
     "name": "YES Millennia Card",
@@ -333,7 +333,7 @@
     ],
     "highlight": "Get up to ₹8,000/year cashback",
     "apply_link": "https://www.example.com/apply/yes-millennia-card",
-    "image_url": "https://dummyimages.com/yes_millennia_card.png"
+    "image_url": "https://www.cardexpert.in/wp-content/uploads/2017/11/Yes-Private-Card.png"
   },
   {
     "name": "Axis Amazon Pay Card",
@@ -357,7 +357,7 @@
     ],
     "highlight": "Get up to ₹6,000/year cashback",
     "apply_link": "https://www.example.com/apply/axis-amazon-pay-card",
-    "image_url": "https://dummyimages.com/axis_amazon_pay_card.png"
+    "image_url": "https://www.axisbank.com/images/default-source/revamp_new/cards/cc-new/card2.png"
   },
   {
     "name": "ICICI Amazon Pay Card",
@@ -381,7 +381,7 @@
     ],
     "highlight": "Get up to ₹5,500/year cashback",
     "apply_link": "https://www.example.com/apply/icici-amazon-pay-card",
-    "image_url": "https://dummyimages.com/icici_amazon_pay_card.png"
+    "image_url": "https://www.icicibank.com/content/dam/icicibank/india/managed-assets/credit-card/mmt-signature-credit-card.png"
   },
   {
     "name": "HDFC Fuel Buddy Card",
@@ -405,7 +405,7 @@
     ],
     "highlight": "Get up to ₹4,800/year cashback",
     "apply_link": "https://www.example.com/apply/hdfc-fuel-buddy-card",
-    "image_url": "https://dummyimages.com/hdfc_fuel_buddy_card.png"
+    "image_url": "https://www.hdfcbank.com/content/api/contentstream-id/723fb80a-2dde-42a3-9793-7ae1be57c87f/01f727fb-30ab-4801-8e4c-94b68586eedb/Personal/Pay/Cards/Credit%20Card/Credit%20Card%20Landing%20Page/Credit%20Cards/Super%20Premium/Regalia%20First/regalia_first_banner1_old.png"
   },
   {
     "name": "Kotak Infinite Travel Card",
@@ -429,7 +429,7 @@
     ],
     "highlight": "Get up to ₹10,000/year travel points",
     "apply_link": "https://www.example.com/apply/kotak-infinite-travel-card",
-    "image_url": "https://dummyimages.com/kotak_infinite_travel_card.png"
+    "image_url": "https://www.paisabazaar.com/wp-content/uploads/2017/10/Screenshot-2024-09-03-152835.png"
   },
   {
     "name": "IndusInd Infinite Travel Card",
@@ -453,7 +453,7 @@
     ],
     "highlight": "Get up to ₹10,000/year travel points",
     "apply_link": "https://www.example.com/apply/indusind-infinite-travel-card",
-    "image_url": "https://dummyimages.com/indusind_infinite_travel_card.png"
+    "image_url": "https://media.banksathi.com/products/logo/gEwpOcXEdybtsp4DjgzEaUXIBhE4KmLooD3mthIT.png"
   },
   {
     "name": "YES Infinite Travel Card",
@@ -477,7 +477,7 @@
     ],
     "highlight": "Get up to ₹10,000/year travel points",
     "apply_link": "https://www.example.com/apply/yes-infinite-travel-card",
-    "image_url": "https://dummyimages.com/yes_infinite_travel_card.png"
+    "image_url": "https://www.cardexpert.in/wp-content/uploads/2017/11/Yes-Private-Card.png"
   },
   {
     "name": "Axis Titanium Edge Card",
@@ -501,7 +501,7 @@
     ],
     "highlight": "Get up to ₹6,000/year cashback",
     "apply_link": "https://www.example.com/apply/axis-titanium-edge-card",
-    "image_url": "https://dummyimages.com/axis_titanium_edge_card.png"
+    "image_url": "https://www.axisbank.com/images/default-source/revamp_new/cards/cc-new/card2.png"
   },
   {
     "name": "Kotak Smart EMI Card",
@@ -525,7 +525,7 @@
     ],
     "highlight": "Get up to ₹6,245/year cashback",
     "apply_link": "https://www.example.com/apply/kotak-smart-emi-card",
-    "image_url": "https://dummyimages.com/kotak_smart_emi_card.png"
+    "image_url": "https://www.paisabazaar.com/wp-content/uploads/2017/10/Screenshot-2024-09-03-152835.png"
   },
   {
     "name": "YES MoneyBack+ Card",
@@ -549,7 +549,7 @@
     ],
     "highlight": "Get up to ₹4,200/year cashback",
     "apply_link": "https://www.example.com/apply/yes-moneyback+-card",
-    "image_url": "https://dummyimages.com/yes_moneyback+_card.png"
+    "image_url": "https://www.cardexpert.in/wp-content/uploads/2017/11/Yes-Private-Card.png"
   },
   {
     "name": "IndusInd MoneyBack+ Card",
@@ -573,6 +573,6 @@
     ],
     "highlight": "Get up to ₹4,200/year cashback",
     "apply_link": "https://www.example.com/apply/indusind-moneyback+-card",
-    "image_url": "https://dummyimages.com/indusind_moneyback+_card.png"
+    "image_url": "https://media.banksathi.com/products/logo/gEwpOcXEdybtsp4DjgzEaUXIBhE4KmLooD3mthIT.png"
   }
 ]
