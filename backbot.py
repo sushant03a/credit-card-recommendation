@@ -2,7 +2,7 @@ import json
 from openai import OpenAI
 
 # Set your OpenRouter API key here
-api_key = st.secrets["OPENAI_API_KEY"]
+api_key = "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"
 
 # Initialize OpenAI client for OpenRouter
 client = OpenAI(
