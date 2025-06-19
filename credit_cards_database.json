@@ -1,0 +1,578 @@
+[
+  {
+    "name": "SBI Platinum Rewards Card",
+    "issuer": "SBI",
+    "joining_fee": 0,
+    "annual_fee": 999,
+    "min_income": 15000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "lifestyle",
+    "reward_categories": {
+      "fuel": 3,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "dining discounts"
+    ],
+    "highlight": "Get up to ₹6,944/year cashback",
+    "apply_link": "https://www.example.com/apply/sbi-platinum-rewards-card",
+    "image_url": "https://dummyimages.com/sbi_platinum_rewards_card.png"
+  },
+  {
+    "name": "ICICI Fuel Buddy Card",
+    "issuer": "ICICI Bank",
+    "joining_fee": 499,
+    "annual_fee": 499,
+    "min_income": 25000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "fuel",
+    "reward_categories": {
+      "fuel": 4,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "cashback on groceries"
+    ],
+    "highlight": "Get up to ₹7,127/year cashback",
+    "apply_link": "https://www.example.com/apply/icici-fuel-buddy-card",
+    "image_url": "https://dummyimages.com/icici_fuel_buddy_card.png"
+  },
+  {
+    "name": "ICICI Apna Card",
+    "issuer": "ICICI Bank",
+    "joining_fee": 499,
+    "annual_fee": 999,
+    "min_income": 25000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "shopping",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 5,
+      "entertainment": 0
+    },
+    "benefits": [
+      "dining discounts"
+    ],
+    "highlight": "Get up to ₹3,408/year cashback",
+    "apply_link": "https://www.example.com/apply/icici-apna-card-card",
+    "image_url": "https://dummyimages.com/icici_apna_card_card.png"
+  },
+  {
+    "name": "Axis Apna Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 0,
+    "annual_fee": 999,
+    "min_income": 30000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "fuel",
+    "reward_categories": {
+      "fuel": 3,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "movie ticket offers"
+    ],
+    "highlight": "Get up to ₹3,141/year cashback",
+    "apply_link": "https://www.example.com/apply/axis-apna-card-card",
+    "image_url": "https://dummyimages.com/axis_apna_card_card.png"
+  },
+  {
+    "name": "HDFC Smart EMI Card",
+    "issuer": "HDFC Bank",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income": 15000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "dining",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 3,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "cashback on groceries"
+    ],
+    "highlight": "Get up to ₹6,245/year cashback",
+    "apply_link": "https://www.example.com/apply/hdfc-smart-emi-card",
+    "image_url": "https://dummyimages.com/hdfc_smart_emi_card.png"
+  },
+  {
+    "name": "YES Titanium Edge Card",
+    "issuer": "YES Bank",
+    "joining_fee": 999,
+    "annual_fee": 999,
+    "min_income": 15000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "dining",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 5,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "cashback on groceries"
+    ],
+    "highlight": "Get up to ₹5,460/year cashback",
+    "apply_link": "https://www.example.com/apply/yes-titanium-edge-card",
+    "image_url": "https://dummyimages.com/yes_titanium_edge_card.png"
+  },
+  {
+    "name": "Kotak Amazon Pay Card",
+    "issuer": "Kotak Bank",
+    "joining_fee": 999,
+    "annual_fee": 499,
+    "min_income": 30000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "fuel",
+    "reward_categories": {
+      "fuel": 5,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "airport lounge access"
+    ],
+    "highlight": "Get up to ₹5,119/year cashback",
+    "apply_link": "https://www.example.com/apply/kotak-amazon-pay-card",
+    "image_url": "https://dummyimages.com/kotak_amazon_pay_card.png"
+  },
+  {
+    "name": "IndusInd Super Shopper Card",
+    "issuer": "IndusInd Bank",
+    "joining_fee": 0,
+    "annual_fee": 499,
+    "min_income": 20000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "entertainment",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 3
+    },
+    "benefits": [
+      "fuel surcharge waiver"
+    ],
+    "highlight": "Get up to ₹3,028/year cashback",
+    "apply_link": "https://www.example.com/apply/indusind-super-shopper-card",
+    "image_url": "https://dummyimages.com/indusind_super_shopper_card.png"
+  },
+  {
+    "name": "Kotak Platinum Rewards Card",
+    "issuer": "Kotak Bank",
+    "joining_fee": 999,
+    "annual_fee": 499,
+    "min_income": 25000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "groceries",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 2,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "travel insurance"
+    ],
+    "highlight": "Get up to ₹6,556/year cashback",
+    "apply_link": "https://www.example.com/apply/kotak-platinum-rewards-card",
+    "image_url": "https://dummyimages.com/kotak_platinum_rewards_card.png"
+  },
+  {
+    "name": "Axis MoneyBack+ Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 499,
+    "annual_fee": 999,
+    "min_income": 20000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "groceries",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 5,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "airport lounge access"
+    ],
+    "highlight": "Get up to ₹6,948/year cashback",
+    "apply_link": "https://www.example.com/apply/axis-moneyback+-card",
+    "image_url": "https://dummyimages.com/axis_moneyback+_card.png"
+  },
+  {
+    "name": "Kotak MoneyBack+ Card",
+    "issuer": "Kotak Bank",
+    "joining_fee": 999,
+    "annual_fee": 999,
+    "min_income": 20000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "travel",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 3,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "cashback on groceries"
+    ],
+    "highlight": "Get up to ₹4,500/year cashback",
+    "apply_link": "https://www.example.com/apply/kotak-moneyback+-card",
+    "image_url": "https://dummyimages.com/kotak_moneyback+_card.png"
+  },
+  {
+    "name": "HDFC MoneyBack+ Card",
+    "issuer": "HDFC Bank",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income": 18000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "shopping",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 2,
+      "shopping": 4,
+      "entertainment": 0
+    },
+    "benefits": [
+      "movie ticket offers"
+    ],
+    "highlight": "Get up to ₹4,200/year cashback",
+    "apply_link": "https://www.example.com/apply/hdfc-moneyback+-card",
+    "image_url": "https://dummyimages.com/hdfc_moneyback+_card.png"
+  },
+  {
+    "name": "SBI IRCTC RuPay Card",
+    "issuer": "SBI",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income": 15000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "travel",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 5,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "railway lounge access"
+    ],
+    "highlight": "Get up to ₹5,000/year cashback",
+    "apply_link": "https://www.example.com/apply/sbi-irctc-rupay-card",
+    "image_url": "https://dummyimages.com/sbi_irctc_rupay_card.png"
+  },
+  {
+    "name": "YES Millennia Card",
+    "issuer": "YES Bank",
+    "joining_fee": 1000,
+    "annual_fee": 1000,
+    "min_income": 35000,
+    "credit_score_min": 720,
+    "age_min": 21,
+    "card_type": "lifestyle",
+    "reward_categories": {
+      "fuel": 2,
+      "travel": 2,
+      "groceries": 2,
+      "dining": 2,
+      "shopping": 2,
+      "entertainment": 2
+    },
+    "benefits": [
+      "airport lounge access"
+    ],
+    "highlight": "Get up to ₹8,000/year cashback",
+    "apply_link": "https://www.example.com/apply/yes-millennia-card",
+    "image_url": "https://dummyimages.com/yes_millennia_card.png"
+  },
+  {
+    "name": "Axis Amazon Pay Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income": 20000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "shopping",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 5,
+      "entertainment": 0
+    },
+    "benefits": [
+      "Amazon vouchers"
+    ],
+    "highlight": "Get up to ₹6,000/year cashback",
+    "apply_link": "https://www.example.com/apply/axis-amazon-pay-card",
+    "image_url": "https://dummyimages.com/axis_amazon_pay_card.png"
+  },
+  {
+    "name": "ICICI Amazon Pay Card",
+    "issuer": "ICICI Bank",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income": 25000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "shopping",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 5,
+      "entertainment": 0
+    },
+    "benefits": [
+      "Amazon vouchers"
+    ],
+    "highlight": "Get up to ₹5,500/year cashback",
+    "apply_link": "https://www.example.com/apply/icici-amazon-pay-card",
+    "image_url": "https://dummyimages.com/icici_amazon_pay_card.png"
+  },
+  {
+    "name": "HDFC Fuel Buddy Card",
+    "issuer": "HDFC Bank",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income": 20000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "fuel",
+    "reward_categories": {
+      "fuel": 5,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "fuel surcharge waiver"
+    ],
+    "highlight": "Get up to ₹4,800/year cashback",
+    "apply_link": "https://www.example.com/apply/hdfc-fuel-buddy-card",
+    "image_url": "https://dummyimages.com/hdfc_fuel_buddy_card.png"
+  },
+  {
+    "name": "Kotak Infinite Travel Card",
+    "issuer": "Kotak Bank",
+    "joining_fee": 1500,
+    "annual_fee": 1500,
+    "min_income": 40000,
+    "credit_score_min": 750,
+    "age_min": 21,
+    "card_type": "travel",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 6,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "airport lounge access"
+    ],
+    "highlight": "Get up to ₹10,000/year travel points",
+    "apply_link": "https://www.example.com/apply/kotak-infinite-travel-card",
+    "image_url": "https://dummyimages.com/kotak_infinite_travel_card.png"
+  },
+  {
+    "name": "IndusInd Infinite Travel Card",
+    "issuer": "IndusInd Bank",
+    "joining_fee": 1500,
+    "annual_fee": 1500,
+    "min_income": 40000,
+    "credit_score_min": 750,
+    "age_min": 21,
+    "card_type": "travel",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 6,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "airport lounge access"
+    ],
+    "highlight": "Get up to ₹10,000/year travel points",
+    "apply_link": "https://www.example.com/apply/indusind-infinite-travel-card",
+    "image_url": "https://dummyimages.com/indusind_infinite_travel_card.png"
+  },
+  {
+    "name": "YES Infinite Travel Card",
+    "issuer": "YES Bank",
+    "joining_fee": 1500,
+    "annual_fee": 1500,
+    "min_income": 40000,
+    "credit_score_min": 750,
+    "age_min": 21,
+    "card_type": "travel",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 6,
+      "groceries": 0,
+      "dining": 0,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "airport lounge access"
+    ],
+    "highlight": "Get up to ₹10,000/year travel points",
+    "apply_link": "https://www.example.com/apply/yes-infinite-travel-card",
+    "image_url": "https://dummyimages.com/yes_infinite_travel_card.png"
+  },
+  {
+    "name": "Axis Titanium Edge Card",
+    "issuer": "Axis Bank",
+    "joining_fee": 750,
+    "annual_fee": 750,
+    "min_income": 25000,
+    "credit_score_min": 720,
+    "age_min": 21,
+    "card_type": "lifestyle",
+    "reward_categories": {
+      "fuel": 2,
+      "travel": 2,
+      "groceries": 2,
+      "dining": 2,
+      "shopping": 2,
+      "entertainment": 2
+    },
+    "benefits": [
+      "dining discounts"
+    ],
+    "highlight": "Get up to ₹6,000/year cashback",
+    "apply_link": "https://www.example.com/apply/axis-titanium-edge-card",
+    "image_url": "https://dummyimages.com/axis_titanium_edge_card.png"
+  },
+  {
+    "name": "Kotak Smart EMI Card",
+    "issuer": "Kotak Bank",
+    "joining_fee": 0,
+    "annual_fee": 0,
+    "min_income": 15000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "dining",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 3,
+      "shopping": 0,
+      "entertainment": 0
+    },
+    "benefits": [
+      "cashback on groceries"
+    ],
+    "highlight": "Get up to ₹6,245/year cashback",
+    "apply_link": "https://www.example.com/apply/kotak-smart-emi-card",
+    "image_url": "https://dummyimages.com/kotak_smart_emi_card.png"
+  },
+  {
+    "name": "YES MoneyBack+ Card",
+    "issuer": "YES Bank",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income": 18000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "shopping",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 2,
+      "shopping": 4,
+      "entertainment": 0
+    },
+    "benefits": [
+      "movie ticket offers"
+    ],
+    "highlight": "Get up to ₹4,200/year cashback",
+    "apply_link": "https://www.example.com/apply/yes-moneyback+-card",
+    "image_url": "https://dummyimages.com/yes_moneyback+_card.png"
+  },
+  {
+    "name": "IndusInd MoneyBack+ Card",
+    "issuer": "IndusInd Bank",
+    "joining_fee": 500,
+    "annual_fee": 500,
+    "min_income": 18000,
+    "credit_score_min": 700,
+    "age_min": 21,
+    "card_type": "shopping",
+    "reward_categories": {
+      "fuel": 0,
+      "travel": 0,
+      "groceries": 0,
+      "dining": 2,
+      "shopping": 4,
+      "entertainment": 0
+    },
+    "benefits": [
+      "movie ticket offers"
+    ],
+    "highlight": "Get up to ₹4,200/year cashback",
+    "apply_link": "https://www.example.com/apply/indusind-moneyback+-card",
+    "image_url": "https://dummyimages.com/indusind_moneyback+_card.png"
+  }
+]
