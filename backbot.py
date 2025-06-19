@@ -2,7 +2,7 @@ import json
 from openai import OpenAI
 
 # Set your OpenRouter API key here
-api_key = "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"
+api_key = "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"
 
 # Initialize OpenAI client for OpenRouter
 client = OpenAI(
@@ -113,6 +113,9 @@ Card details:
             "image_url": card.get("image_url", ""),
             "reasons": ai_reasons + ([best_for] if best_for else []),
             "reward_simulation": reward_simulation,
+            "joining_fee": card.get("joining_fee", 0),
+            "annual_fee": card.get("annual_fee", 0),
+            "apply_link": card.get("apply_link", ""),
         })
     return recommendations
 
