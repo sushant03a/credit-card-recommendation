@@ -5,25 +5,17 @@ This project is a web-based application designed to provide personalized credit 
 ## Project Structure
 
 ```
-credit-card-recommendation
-├── src
-│   ├── components
-│   │   └── RecommendationForm.tsx
-│   ├── pages
-│   │   ├── index.tsx
-│   │   └── results.tsx
-│   ├── services
-│   │   ├── llmService.ts
-│   │   └── toolIntegration.ts
-│   ├── utils
-│   │   └── helpers.ts
-│   └── types
-│       └── index.ts
-├── public
-│   └── index.html
-├── package.json
-├── tsconfig.json
-└── README.md
+credit-card-assistant/
+│
+├── credit-card-recommendation/
+│   ├── app.py
+│   ├── backbot.py
+│   ├── requirements.txt
+│   └── ...
+├── demo/
+│   └── demo.gif
+├── README.md
+└── .env.example
 ```
 
 ## Features
