@@ -192,12 +192,12 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("💳 Credit Card Recommendation Assistant")
+st.title("Credit Card Recommendation Assistant")
 
 left_col, right_col = st.columns([2, 1])
 
 with left_col:
-    st.header("✨ Get Card Recommendations")
+    st.header("Get Card Recommendations")
 
     if "recommend_answers" not in st.session_state:
         st.session_state.recommend_answers = {}
