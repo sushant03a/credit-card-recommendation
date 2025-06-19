@@ -67,6 +67,3 @@ The application follows a structured flow to gather user inputs, which include:
 
 The prompts are designed to be conversational and engaging, ensuring users feel comfortable providing their information.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
