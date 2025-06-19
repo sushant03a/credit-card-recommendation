@@ -6,16 +6,14 @@ This project is a web-based application designed to provide personalized credit 
 
 ```
 credit-card-assistant/
-│
-├── credit-card-recommendation/
-│   ├── app.py
-│   ├── backbot.py
-│   ├── requirements.txt
-│   └── ...
-├── demo/
-│   └── demo.gif
+├── app.py
+├── backbot.py
+├── requirements.txt
 ├── README.md
-└── .env.example
+├── .env.example
+├── credit_cards_database.json
+└── demo/
+    └── demo.gif
 ```
 
 ## Features
@@ -27,22 +25,20 @@ credit-card-assistant/
 
 ## Setup Instructions
 
-1. Clone the repository:
-   ```
-   git clone <repository-url>
-   ```
-2. Navigate to the project directory:
-   ```
-   cd credit-card-recommendation
-   ```
-3. Install the dependencies:
-   ```
-   npm install
-   ```
-4. Start the development server:
-   ```
-   npm start
-   ```
+
+
+ **Install dependencies**
+    ```
+    pip install -r requirements.txt
+    ```
+
+**Configure environment variables**
+    - Copy `.env` and fill in your API keys.
+
+**Run the app**
+    ```
+    streamlit run app.py
+    ```
 
 ## Demo
 
